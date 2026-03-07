@@ -7,6 +7,7 @@ const steven = {
   school: "University of Southern California",
   major: "Quantitative Biology",
   skills: ["Python", "TypeScript", "React", "FastAPI", "PostgreSQL", "C++"],
+  hobbies: [video games, movies, board games, walks]
 }
 ```
 
