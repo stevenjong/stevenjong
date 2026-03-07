@@ -1,4 +1,4 @@
-# cout << "Hello! I'm Steven! << endl;
+# cout << "Hello! I'm Steven!" << endl;
 
 ## About Me
 
