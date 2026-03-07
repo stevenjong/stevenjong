@@ -1,16 +1,24 @@
-## Hi there 👋
+# cout << "Hello! I'm Steven! << endl;
 
-<!--
-**stevenjong/stevenjong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+```
+const steven = {
+  school: "University of Southern California",
+  major: "Quantitative Biology",
+  skills: ["Python", "TypeScript", "React", "FastAPI", "PostgreSQL", "C++"],
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+```
+projects = [
+  {
+    "name": "IFEC Fleet Management System",
+    "description": "Full-stack IFEC dashboard",
+    "link": "github.com/stevenjong/Airline-Interface-Project"
+  }
+]
+
+```
